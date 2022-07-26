@@ -4,8 +4,8 @@
 // @version      1.0
 // @description  Автоматически закрывает mandotary modal при входе в СББОЛ на локале, деве, ИФТ и ПСИ
 // @author       Илья Никишин <ianikishin@sberbank.ru>
-// @downloadURL  https://github.com/half-public-tools/autoclose-sbbol-mandatory-modal/raw/master/autoclose-sbbol-mandatory-modal.user.js
-// @updateURL    https://github.com/half-public-tools/autoclose-sbbol-mandatory-modal/raw/master/autoclose-sbbol-mandatory-modal.user.js
+// @downloadURL  https://github.com/half-public-tools/autoclose-sbbol-mandatory-modal/raw/main/autoclose-sbbol-mandatory-modal.user.js
+// @updateURL    https://github.com/half-public-tools/autoclose-sbbol-mandatory-modal/raw/main/autoclose-sbbol-mandatory-modal.user.js
 // @match        http://localhost:3000/ic/dcb/*
 // @match        http://localhost:3000/icdk/dcb/*
 // @match        http://localhost:3000/ic/dcb-devops/*
