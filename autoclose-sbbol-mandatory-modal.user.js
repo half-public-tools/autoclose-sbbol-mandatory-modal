@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Автозакрытие mandotary modal СББОЛ
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  Автоматически закрывает mandotary modal при входе в СББОЛ на локале, деве, ИФТ и ПСИ
 // @author       Илья Никишин <ianikishin@sberbank.ru>
 // @downloadURL  https://github.com/half-public-tools/autoclose-sbbol-mandatory-modal/raw/main/autoclose-sbbol-mandatory-modal.user.js
